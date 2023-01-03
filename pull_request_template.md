@@ -1,9 +1,9 @@
 If you are adding a new RPC, please answer the following questions.
 
-#### Link the service provider's website (the company/protocol/individual providing the RPC):
+#### Link the service provider's website (the company/protocol/individual providing the RPC): https://bitindi.com
 
 
-#### Provide a link to your privacy policy:
+#### Provide a link to your privacy policy: https://bitindi.com/privacy-policy
 
 
 #### If the RPC has none of the above and you still think it should be added, please explain why:
